@@ -1,6 +1,6 @@
 # GUC-autoEval
 A chrome extension that automates academic evaluation for GUC students.  If you find it helpful, share it with your colleagues.
-make sure you use these urls : https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx     , https://student.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx
+make sure you use these urls : https://apps.guc.edu.eg/student_ext/Evaluation/EvaluateStaff.aspx, https://apps.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx
 and not the normal admin system url. I suggest bookmarking it so you can always use the extension easily.
 
 
