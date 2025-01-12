@@ -18,7 +18,7 @@ and not the normal admin system url. I suggest bookmarking it so you can always 
 
 6- navigate to the folder downloaded and select the folder   
 
-7- open the evaluate academics site using *THESE* urls : https://student.guc.edu.eg/external/student/staff/EvaluateStaff.aspx , https://student.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx   
+7- open the evaluate academics site using *THESE* urls : https://apps.guc.edu.eg/student_ext/Evaluation/EvaluateStaff.aspx , https://apps.guc.edu.eg/External/Student/Course/EvaluateCourse.aspx   
 
 or open it in new tab from the admin system. 
 
