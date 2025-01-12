@@ -9,18 +9,18 @@ function evaluate(x) {
                 c+=1;
             }
         }
-    document.getElementsByName("pstEvalBtn")[0].click();
+    document.getElementsByName("ctl00$ctl00$ContentPlaceHolderright$ContentPlaceHoldercontent$pstEvalBtn")[0].click();
   }
-  if(document.getElementsByName("stfIdLst").length>0){
-    if(document.getElementsByName("stfIdLst")[0].selectedIndex!==0){
+  if(document.getElementsByName("ctl00$ctl00$ContentPlaceHolderright$ContentPlaceHoldercontent$stfIdLst").length>0){
+    if(document.getElementsByName("ctl00$ctl00$ContentPlaceHolderright$ContentPlaceHoldercontent$stfIdLst")[0].selectedIndex!==0){
         var x = parseInt(prompt("enter number from 0 to 5 to choose from strongly agree (0) to strongly disagree(5) or -1 to cancel"));
         if(x>-1){
           evaluate(x);
         }
     }
   }
-  if(document.getElementsByName("crsIdLst").length>0){
-    if(document.getElementsByName("crsIdLst")[0].selectedIndex!==0){
+  if(document.getElementsByName("ctl00$ctl00$ContentPlaceHolderright$ContentPlaceHoldercontent$crsIdLst").length>0){
+    if(document.getElementsByName("ctl00$ctl00$ContentPlaceHolderright$ContentPlaceHoldercontent$crsIdLst")[0].selectedIndex!==0){
         var x = parseInt(prompt("enter number from 0 to 5 to choose from strongly agree (0) to strongly disagree(5) or -1 to cancel"));
         if(x>-1){
           evaluate(x);
